@@ -1,0 +1,6 @@
+venv
+*.pyc
+.SyncID
+.SyncIgnore
+.idea
+.ipynb_checkpoints
